@@ -4,6 +4,8 @@ import { NavLink as Link, Switch, Route } from 'react-router-dom';
 // local dependencies
 import { About } from 'components/routes/about';
 import { Contact } from 'components/routes/contact';
+import { Projects } from 'components/routes/projects';
+import { Posts } from 'components/routes/posts';
 
 // app component view
 export const AppView = () => {
@@ -26,8 +28,8 @@ export const AppView = () => {
             {/* routes */}
             <div className='ui-app__routes'>
                 <Switch>
-                    <Route path='/posts'>Posts</Route>
-                    <Route path='/projects'>Projects</Route>
+                    <Route path='/posts' component={ Posts } />
+                    <Route path='/projects' component={ Projects } />
                     <Route path='/contact' component={ Contact } />
                     <Route path='/' component={ About } />
                 </Switch>

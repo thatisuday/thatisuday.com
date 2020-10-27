@@ -1,0 +1,50 @@
+[
+  {
+    "id": "commando",
+    "title": "commando",
+    "description": "A command-line application builder framework for Go (golang).",
+    "url": "https://github.com/thatisuday/commando"
+  },
+  {
+    "id": "clapper",
+    "title": "clapper",
+    "description": "A simple but powerful Go package to parse command-line arguments getopt(3) style.",
+    "url": "https://github.com/thatisuday/clapper"
+  },
+  {
+    "id": "catage",
+    "title": "catage",
+    "description": "Node package and CLI tool to convert code into image with syntax highlighting.",
+    "url": "https://github.com/thatisuday/catage"
+  },
+  {
+    "id": "tree",
+    "title": "tree",
+    "description": "A command-line tool to print the contents of a relative or an absolute directory in a tree-like format.",
+    "url": "https://github.com/thatisuday/tree"
+  },
+  {
+    "id": "file-checksum",
+    "title": "file-checksum",
+    "description": "A CLI tool to calculate checksum of file's content using md5 or sha1 algorithms.",
+    "url": "https://github.com/thatisuday/file-checksum"
+  },
+  {
+    "id": "js-plugin-starter-kit",
+    "title": "js-plugin-starter-kit",
+    "description": "VanillaJS (pure JavaScript) plugin starter with Webpack 4 and Babel 7.",
+    "url": "https://github.com/course-one/js-plugin-starter-kit"
+  },
+  {
+    "id": "getting-started-with-typescript",
+    "title": "getting-started-with-typescript",
+    "description": "TypeScript tutorials, examples and learning guide.",
+    "url": "https://github.com/course-zero/getting-started-with-typescript"
+  },
+  {
+    "id": "ngx-product-zoom",
+    "title": "ngx-product-zoom",
+    "description": "An e-commerce products (images) zoom widget for Angular 4+.",
+    "url": "https://github.com/thatisuday/ngx-product-zoom"
+  }
+]

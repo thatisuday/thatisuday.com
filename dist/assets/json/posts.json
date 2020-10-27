@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "title": "How to choose a programming language to learn",
+        "description": "We are surrounded by hundreds of programming languages, but you can’t learn all of them. In this article, I am going to explain a few simple points to consider while choosing your next programming language to learn.",
+        "url": "https://itnext.io/how-to-choose-a-programming-language-to-learn-4b5bc66114cc"
+    },
+    {
+        "id": "2",
+        "title": "A basic introduction to Canvas API to draw 2D/3D graphics on Web",
+        "description": "In this article, we are going look at the basics of Canvas Web API provided by the browser to draw 2D/3D graphics natively on the web.",
+        "url": "https://medium.com/jspoint/a-basic-introduction-to-canvas-api-to-draw-2d-3d-graphics-on-web-15d251a675a3"
+    },
+    {
+        "id": "3",
+        "title": "How to create an executable (.exe) file from JavaScript code (using Node.js)",
+        "description": "In this lesson, we are going to learn how to create a .exe binary executable file from JavaScript code. This is possible with the help of Node.js runtime and some third-party tools.",
+        "url": "https://medium.com/jspoint/how-to-create-an-executable-exe-file-from-javascript-code-using-node-js-45154ba4de20"
+    },
+    {
+        "id": "4",
+        "title": "Integrating TypeScript with Webpack",
+        "description": "In this lesson, we are going to learn how to compile a TypeScript project using Webpack. This setup becomes necessary if you want to bundle TypeScript containing ES6 or the CommonJS module system imports and exports.",
+        "url": "https://medium.com/jspoint/integrating-typescript-with-webpack-4534e840a02b"
+    },
+    {
+        "id": "5",
+        "title": "What’s new in JavaScript 2020?",
+        "description": "There are some new ECMAScript proposals that have landed in the “stage 4” of the TC39 proposal track. Let’s have a quick look at these features and experiment with them.",
+        "url": "https://medium.com/jspoint/whats-new-in-javascript-2020-a2e19250a774"
+    },
+    {
+        "id": "6",
+        "title": "Anatomy of Modules in Go",
+        "description": "Modules are a new way to manage dependencies of your Go project. Modules enable us to incorporate different versions of the same dependency without breaking the application.",
+        "url": "https://medium.com/rungo/anatomy-of-modules-in-go-c8274d215c16"
+    },
+    {
+        "id": "7",
+        "title": "How to set up GitHub workflows and create GitHub Actions using Docker",
+        "description": "In this article, we are going to learn how a GitHub workflow works and how to set them up. Also, we are going to create customized GitHub actions with ease using Docker.",
+        "url": "https://medium.com/sysf/how-to-set-up-github-workflows-and-create-github-actions-using-docker-3a5ba7ec0988"
+    },
+    {
+        "id": "8",
+        "title": "Introduction to Character Encoding",
+        "description": "In this article, we will learn about popular character encoding schemes and how we can use them in real life.",
+        "url": "https://medium.com/jspoint/introduction-to-character-encoding-3b9735f265a6"
+    },
+    {
+        "id": "9",
+        "title": "A brief overview of the TCP/IP model, SSL/TLS/HTTPS protocols and SSL certificates",
+        "description": "In this article, we will learn about how web encryption and web security works based on the SSL/TLS protocol. We will also go through the anatomy of SSL certificates and how to generate a self-signed certificate for your own use.",
+        "url": "https://medium.com/jspoint/a-brief-overview-of-the-tcp-ip-model-ssl-tls-https-protocols-and-ssl-certificates-d5a6269fe29e"
+    }
+]
