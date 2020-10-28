@@ -46,3 +46,6 @@ export const ContactView = () => {
 
 // default props
 ContactView.defaultProps = {};
+
+// set display name
+ContactView.displayName = 'ContactView';

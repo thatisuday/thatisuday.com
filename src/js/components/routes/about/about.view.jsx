@@ -26,3 +26,6 @@ export const AboutView = () => {
 
 // default props
 AboutView.defaultProps = {};
+
+// set display name
+AboutView.displayName = 'AboutView';

@@ -54,3 +54,6 @@ export const AppView = () => {
 
 // default props
 AppView.defaultProps = {};
+
+// set display name
+AppView.displayName = 'AppView';

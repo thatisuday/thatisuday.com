@@ -4,7 +4,7 @@ import { bindActionCreators } from 'redux';
 
 // local dependencies
 import { getPosts } from 'services/posts.service';
-import { PostsView } from './posts.view';
+import { PostsView, PostsPreloaderView } from './posts.view';
 import { addPosts } from 'store/actions/posts';
 
 /**
@@ -37,7 +37,9 @@ class _Posts extends React.Component {
 
     // render
     render() {
-        return this.state.posts.length === 0 ? null : (
+        return this.state.posts.length === 0 ? (
+            <PostsPreloaderView />
+        ) : (
             <PostsView
                 posts={ this.state.posts }
             />
@@ -49,6 +51,9 @@ class _Posts extends React.Component {
 _Posts.defaultProps = {
     posts: [],
 };
+
+// set display name
+_Posts.displayName = '_Posts';
 
 /********************/
 

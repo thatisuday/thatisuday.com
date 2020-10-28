@@ -22,3 +22,6 @@ export class Contact extends React.Component {
         );
     }
 }
+
+// set display name
+Contact.displayName = 'Contact';

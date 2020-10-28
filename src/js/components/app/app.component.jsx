@@ -31,3 +31,6 @@ export class App extends React.Component {
         );
     }
 }
+
+// set display name
+App.displayName = 'App';

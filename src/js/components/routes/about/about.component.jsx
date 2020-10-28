@@ -22,3 +22,6 @@ export class About extends React.Component {
         );
     }
 }
+
+// set display name
+About.displayName = 'About';

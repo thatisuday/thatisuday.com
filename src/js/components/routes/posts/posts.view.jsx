@@ -1,6 +1,7 @@
 import React from 'react';
+import Loader from 'react-loader-spinner';
 
-// posts route component
+// posts route view
 export const PostsView = ( props ) => {
     return (
         <div className='ui-posts'>
@@ -31,3 +32,28 @@ export const PostsView = ( props ) => {
 PostsView.defaultProps = {
     posts: [],
 };
+
+// set display name
+PostsView.displayName = 'PostsView';
+
+/*******************/
+
+// posts route preloader view
+export const PostsPreloaderView = () => {
+    return (
+        <div className='ui-posts-preloader'>
+            <Loader
+                type="TailSpin"
+                color="#000"
+                height={ 100 }
+                width={ 100 }
+            />
+        </div>
+    );
+};
+
+// default props
+PostsPreloaderView.defaultProps = {};
+
+// set display name
+PostsPreloaderView.displayName = 'PostsPreloaderView';

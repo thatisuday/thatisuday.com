@@ -1,6 +1,7 @@
 import React from 'react';
+import Loader from 'react-loader-spinner';
 
-// projects route component
+// projects route view
 export const ProjectsView = ( props ) => {
     return (
         <div className='ui-projects'>
@@ -31,3 +32,28 @@ export const ProjectsView = ( props ) => {
 ProjectsView.defaultProps = {
     projects: [],
 };
+
+// set display name
+ProjectsView.displayName = 'ProjectsView';
+
+/*******************/
+
+// projects route preloader view
+export const ProjectsPreloaderView = () => {
+    return (
+        <div className='ui-projects-preloader'>
+            <Loader
+                type="TailSpin"
+                color="#000"
+                height={ 100 }
+                width={ 100 }
+            />
+        </div>
+    );
+};
+
+// default props
+ProjectsPreloaderView.defaultProps = {};
+
+// set display name
+ProjectsPreloaderView.displayName = 'ProjectsPreloaderView';

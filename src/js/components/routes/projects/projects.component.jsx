@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 
 // local dependencies
-import { ProjectsView } from './projects.view';
+import { ProjectsView, ProjectsPreloaderView } from './projects.view';
 import { getProjects } from 'services/projects.service';
 import { addProjects } from 'store/actions/projects';
 
@@ -37,7 +37,9 @@ class _Projects extends React.Component {
 
     // render
     render() {
-        return this.state.projects.length === 0 ? null : (
+        return this.state.projects.length === 0 ? (
+            <ProjectsPreloaderView />
+        ) : (
             <ProjectsView
                 projects={ this.state.projects }
             />
@@ -49,6 +51,9 @@ class _Projects extends React.Component {
 _Projects.defaultProps = {
     projects: [],
 };
+
+// set display name
+_Projects.displayName = '_Projects';
 
 /********************/
 
