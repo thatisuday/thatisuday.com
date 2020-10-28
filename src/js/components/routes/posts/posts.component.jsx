@@ -1,23 +1,28 @@
 import React from 'react';
-import { getPosts } from 'services/posts.service';
+import { connect } from 'react-redux';
+import { bindActionCreators } from 'redux';
 
-// app component view
+// local dependencies
+import { getPosts } from 'services/posts.service';
 import { PostsView } from './posts.view';
+import { addPosts } from 'store/actions/posts';
 
 /**
  * @desc Posts component.
  */
-export class Posts extends React.Component {
+class _Posts extends React.Component {
     constructor( props ) {
         super( props );
 
         // component state
         this.state = {
-            posts: [],
+            posts: props.posts,
         };
 
         // fetch posts
-        this.fetchPosts();
+        if( props.posts.length === 0 ) {
+            this.fetchPosts();
+        }
     }
 
     // fetch posts
@@ -25,7 +30,9 @@ export class Posts extends React.Component {
         const posts = await getPosts();
         
         // update state
-        this.setState( { posts } );
+        this.setState( { posts }, () => {
+            this.props.addPosts( posts );
+        } );
     }
 
     // render
@@ -37,3 +44,28 @@ export class Posts extends React.Component {
         );
     }
 }
+
+// default props
+_Posts.defaultProps = {
+    posts: [],
+};
+
+/********************/
+
+// get store state
+const mapStateToProps = ( state ) => {
+    return {
+        posts: state.posts,
+    };
+};
+
+// dispatch actions
+const mapDispatchToProps = ( dispatch ) => {
+    return {
+        addPosts: bindActionCreators( addPosts, dispatch ),
+    };
+};
+
+// export component
+export const Posts = connect( mapStateToProps, mapDispatchToProps )( _Posts );
+

@@ -74,6 +74,7 @@ module.exports = {
             'hocs': path.resolve( __dirname, 'src/js/hocs' ),
             'utils': path.resolve( __dirname, 'src/js/utils' ),
             'services': path.resolve( __dirname, 'src/js/services' ),
+            'store': path.resolve( __dirname, 'src/js/store' ),
 
             // scss global import alias in `.scss` file using `@import '~scss-global';`
             'scss-global': path.resolve( __dirname, 'src/scss/global/index.scss' )

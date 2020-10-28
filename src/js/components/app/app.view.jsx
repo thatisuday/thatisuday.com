@@ -37,10 +37,16 @@ export const AppView = () => {
 
             {/* footer */}
             <div className='ui-app__footer'>
-                <a className='ui-app__footer__link' href='https://medium.com/@thatisuday' target='_blank'>Medium</a>
-                <a className='ui-app__footer__link' href='https://github.com/thatisuday' target='_blank'>GitHub</a>
-                <a className='ui-app__footer__link' href='https://twitter.com/thatisuday' target='_blank'>Twitter</a>
-                <a className='ui-app__footer__link' href='https://instagram.com/thatisuday' target='_blank'>Instagram</a>
+                <div className='ui-app__footer__links'>
+                    <a className='ui-app__footer__links__link' href='https://medium.com/@thatisuday' target='_blank'>Medium</a>
+                    <a className='ui-app__footer__links__link' href='https://github.com/thatisuday' target='_blank'>GitHub</a>
+                    <a className='ui-app__footer__links__link' href='https://twitter.com/thatisuday' target='_blank'>Twitter</a>
+                    <a className='ui-app__footer__links__link' href='https://instagram.com/thatisuday' target='_blank'>Instagram</a>
+                </div>
+
+                <div className='ui-app__footer__source-code'>
+                    <a className='ui-app__footer__source-code__link' href='https://github.com/thatisuday/thatisuday.com' target='_blank'>(Source Code)</a>
+                </div>
             </div>
         </div>
     );

@@ -1,23 +1,28 @@
 import React from 'react';
-import { getProjects } from 'services/projects.service';
+import { connect } from 'react-redux';
+import { bindActionCreators } from 'redux';
 
-// app component view
+// local dependencies
 import { ProjectsView } from './projects.view';
+import { getProjects } from 'services/projects.service';
+import { addProjects } from 'store/actions/projects';
 
 /**
  * @desc Projects component.
  */
-export class Projects extends React.Component {
+class _Projects extends React.Component {
     constructor( props ) {
         super( props );
 
         // component state
         this.state = {
-            projects: [],
+            projects: props.projects,
         };
 
         // fetch projects
-        this.fetchProjects();
+        if( props.projects.length === 0 ) {
+            this.fetchProjects();
+        }
     }
 
     // fetch projects
@@ -25,7 +30,9 @@ export class Projects extends React.Component {
         const projects = await getProjects();
         
         // update state
-        this.setState( { projects } );
+        this.setState( { projects }, () => {
+            this.props.addProjects( projects );
+        } );
     }
 
     // render
@@ -37,3 +44,27 @@ export class Projects extends React.Component {
         );
     }
 }
+
+// default props
+_Projects.defaultProps = {
+    projects: [],
+};
+
+/********************/
+
+// get store state
+const mapStateToProps = ( state ) => {
+    return {
+        projects: state.projects,
+    };
+};
+
+// dispatch actions
+const mapDispatchToProps = ( dispatch ) => {
+    return {
+        addProjects: bindActionCreators( addProjects, dispatch ),
+    };
+};
+
+// export component
+export const Projects = connect( mapStateToProps, mapDispatchToProps )( _Projects );
