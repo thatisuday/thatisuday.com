@@ -1,7 +1,8 @@
 {
     "env": "production",
     "endpoints": {
-        "projects": "https://api.jsonbin.io/b/5f982b8130aaa01ce619a5d7",
-        "posts": "https://api.jsonbin.io/b/5f98308030aaa01ce619a7b1"
+        "projects": "https://api.jsonbin.io/b/601813f2abdf9c55679626ca",
+        "posts": "https://api.jsonbin.io/b/6018140dabdf9c55679626e2",
+        "articles": "https://api.jsonbin.io/b/60181423abdf9c55679626fb"
     }
 }

@@ -1,0 +1,914 @@
+[
+    {
+        "title": "Everything you need to know about Packages in Go",
+        "url": "https://medium.com/p/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Anatomy of Channels in Go - Concurrency in Go",
+        "url": "https://medium.com/p/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Anatomy of Modules in Go",
+        "url": "https://medium.com/p/anatomy-of-modules-in-go-c8274d215c16",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "A quick introduction to “Type Declaration” files and adding type support to your JavaScript…",
+        "url": "https://medium.com/p/typescript-type-declaration-files-4b29077c43",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "Interfaces in Go",
+        "url": "https://medium.com/p/interfaces-in-go-ab1601159b3a",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Unit Testing made easy in Go",
+        "url": "https://medium.com/p/unit-testing-made-easy-in-go-25077669318",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "A simple guide to load C/C++ code into Node.js JavaScript Applications",
+        "url": "https://medium.com/p/a-simple-guide-to-load-c-c-code-into-node-js-javascript-applications-3fcccf54fd32",
+        "languages": [ "node", "js" ],
+        "tags": []
+    },
+    {
+        "title": "How the browser renders a web page? — DOM, CSSOM and Rendering",
+        "url": "https://medium.com/p/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969",
+        "languages": [ "web", "js" ],
+        "tags": []
+    },
+    {
+        "title": "Achieving concurrency in Go",
+        "url": "https://medium.com/p/achieving-concurrency-in-go-3f84cbf870ca",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Integrating TypeScript with Webpack",
+        "url": "https://medium.com/p/integrating-typescript-with-webpack-4534e840a02b",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "Structures in Go",
+        "url": "https://medium.com/p/structures-in-go-76377cc106a2",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "JavaScript Promises and Async/Await: As Fast As Possible™",
+        "url": "https://medium.com/p/javascript-promises-and-async-await-as-fast-as-possible-d7c8c8ff0abc",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "A beginner’s guide to React Server-Side Rendering (SSR)",
+        "url": "https://medium.com/p/a-beginners-guide-to-react-server-side-rendering-ssr-bf3853841d55",
+        "languages": [ "node", "js" ],
+        "tags": []
+    },
+    {
+        "title": "A brief overview of the TCP/IP model, SSL/TLS/HTTPS protocols and SSL certificates",
+        "url": "https://medium.com/p/a-brief-overview-of-the-tcp-ip-model-ssl-tls-https-protocols-and-ssl-certificates-d5a6269fe29e",
+        "languages": [],
+        "tags": []
+    },
+    {
+        "title": "Making external HTTP requests in Go",
+        "url": "https://medium.com/p/making-external-http-requests-in-go-eb4c015f8839",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "How to create an executable (.exe) file from JavaScript code (using Node.js)",
+        "url": "https://medium.com/p/how-to-create-an-executable-exe-file-from-javascript-code-using-node-js-45154ba4de20",
+        "languages": [ "node", "js" ],
+        "tags": []
+    },
+    {
+        "title": "Introduction to Streams and Buffers",
+        "url": "https://medium.com/p/introduction-to-streams-and-buffers-d148c0cda0ad",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Understanding TypeScript’s “Compilation Process” & the anatomy of “tsconfig.json” file",
+        "url": "https://medium.com/p/typescript-compilation-the-typescript-compiler-4cb15f7244bc",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "Anatomy of methods in Go",
+        "url": "https://medium.com/p/anatomy-of-methods-in-go-f552aaa8ac4a",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "A minimal guide to JavaScript (ECMAScript) Decorators and Property Descriptor of the Object",
+        "url": "https://medium.com/p/a-minimal-guide-to-ecmascript-decorators-55b70338215e",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "A simple guide to “interface” data type in TypeScript",
+        "url": "https://medium.com/p/typescript-interfaces-4a2af07c8070",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "Executing shell commands, script files, and executables in Go",
+        "url": "https://medium.com/p/executing-shell-commands-script-files-and-executables-in-go-894814f1c0f7",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Bash Scripting: Everything you need to know about Bash-shell programming",
+        "url": "https://medium.com/p/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba",
+        "languages": [ "bash" ],
+        "tags": []
+    },
+    {
+        "title": "A comprehensive guide to “Module System” in TypeScript (with examples)",
+        "url": "https://medium.com/p/typescript-module-system-5022cac310f6",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "Getting started with Go",
+        "url": "https://medium.com/p/working-in-go-workspace-3b0576e0534a",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "A quick introduction to “Promises” and “Async/Await” (with new features)",
+        "url": "https://medium.com/p/typescript-promises-and-async-await-b842b55ee3fd",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "The anatomy of Functions in Go",
+        "url": "https://medium.com/p/the-anatomy-of-functions-in-go-de56c050fe11",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "The anatomy of Slices in Go",
+        "url": "https://medium.com/p/the-anatomy-of-slices-in-go-6450e3bb2b94",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Error handling in Go",
+        "url": "https://medium.com/p/error-handling-in-go-f0125de052f0",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Building simple command-line (CLI) applications in Go using Commando",
+        "url": "https://medium.com/p/building-simple-command-line-cli-applications-in-go-using-commando-8a8e0edbd48a",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "String formatting in Go",
+        "url": "https://medium.com/p/string-formatting-in-go-dd752ff7f60",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Employing “Namespaces” in TypeScript to encapsulate your data",
+        "url": "https://medium.com/p/typescript-namespaces-f43cd002c08c",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "Understanding the context package",
+        "url": "https://medium.com/p/understanding-the-context-package-b2e407a9cdae",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Playing with Geometry/Spatial Data Type in MySQL",
+        "url": "https://medium.com/p/playing-with-geometry-spatial-data-type-in-mysql-645b83880331",
+        "languages": [ "db" ],
+        "tags": []
+    },
+    {
+        "title": "Beginners guide to serving files using HTTP servers in Go",
+        "url": "https://medium.com/p/beginners-guide-to-serving-files-using-http-servers-in-go-4e542e628eac",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Secure HTTPS servers in Go",
+        "url": "https://medium.com/p/secure-https-servers-in-go-a783008b36da",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Webpack (v4) Code Splitting using SplitChunksPlugin",
+        "url": "https://medium.com/p/react-router-and-webpack-v4-code-splitting-using-splitchunksplugin-f0a48f110312",
+        "languages": [ "devops", "js", "node" ],
+        "tags": []
+    },
+    {
+        "title": "Anatomy of TypeScript “Decorators” and their usage patterns",
+        "url": "https://medium.com/p/anatomy-of-typescript-decorators-and-their-usage-patterns-487729b34ae6",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "Creating a simple “Hello World!” HTTP Server in Go",
+        "url": "https://medium.com/p/creating-a-simple-hello-world-http-server-in-go-31c7fd70466e",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Building RPC (Remote Procedure Call) Network in Go",
+        "url": "https://medium.com/p/building-rpc-remote-procedure-call-network-in-go-5bfebe90f7e9",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Creating CLI Executable global npm module",
+        "url": "https://medium.com/p/creating-cli-executable-global-npm-module-5ef734febe32",
+        "languages": [ "npm", "js", "node" ],
+        "tags": []
+    },
+    {
+        "title": "Making CLI app with ease using commander.js and Inquirer.js",
+        "url": "https://medium.com/p/making-cli-app-with-ease-using-commander-js-and-inquirer-js-f3bbd52977ac",
+        "languages": [ "npm", "node", "js" ],
+        "tags": []
+    },
+    {
+        "title": "How to use IndexDB to build Progressive Web Apps",
+        "url": "https://medium.com/p/indexeddb-your-second-step-towards-progressive-web-apps-pwa-dcbcd6cc2076",
+        "languages": [ "pwa", "js" ],
+        "tags": []
+    },
+    {
+        "title": "Data Types and Variables in Go",
+        "url": "https://medium.com/p/variables-and-constants-in-go-programming-c715443fa788",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "How to set up GitHub workflows and create GitHub Actions using Docker",
+        "url": "https://medium.com/p/how-to-set-up-github-workflows-and-create-github-actions-using-docker-3a5ba7ec0988",
+        "languages": [ "devops", "docker" ],
+        "tags": []
+    },
+    {
+        "title": "Working with files and file system: A low-level introduction",
+        "url": "https://medium.com/p/working-with-files-and-file-system-a-low-level-introduction-825ea3bac5f9",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "A beginner’s guide to networking in Docker",
+        "url": "https://medium.com/p/a-beginners-guide-to-networking-in-docker-ca5b822fb935",
+        "languages": [ "docker" ],
+        "tags": []
+    },
+    {
+        "title": "Creating CSS animations using sprite sheet",
+        "url": "https://medium.com/p/creating-css-animations-using-sprite-sheet-47e2b7a3793c",
+        "languages": [ "web" ],
+        "tags": []
+    },
+    {
+        "title": "String Data Type in Go",
+        "url": "https://medium.com/p/string-data-type-in-go-8af2b639478",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Writing your first “Hello World” program in TypeScript with ease",
+        "url": "https://medium.com/p/typescript-hello-world-program-b0826ee3d87d",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "Working with JSON in Go",
+        "url": "https://medium.com/p/working-with-json-in-go-7e3a37c5a07b",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "How does JavaScript and JavaScript engine work in the browser and node?",
+        "url": "https://medium.com/p/how-javascript-works-in-browser-and-node-ab7d0d09ac2f",
+        "languages": [ "node", "js", "web" ],
+        "tags": []
+    },
+    {
+        "title": "Pug.js to make your life easier with HTML templates",
+        "url": "https://medium.com/p/pug-js-to-make-your-life-easier-with-html-templates-9c62273626e0",
+        "languages": [ "node", "js" ],
+        "tags": []
+    },
+    {
+        "title": "Understanding the TypeScript’s type system and some must-know concepts",
+        "url": "https://medium.com/p/typescript-type-system-81fdb84bba75",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "Introduction to Node.js / A beginners guide to Node.js and NPM",
+        "url": "https://medium.com/p/introduction-to-node-js-a-beginners-guide-to-node-js-and-npm-eca9c408f9fe",
+        "languages": [ "node", "npm", "js" ],
+        "tags": []
+    },
+    {
+        "title": "A beginner’s guide to creating desktop applications using Electron",
+        "url": "https://medium.com/p/a-beginners-guide-to-creating-desktop-applications-using-electron-824da5665047",
+        "languages": [ "electron", "web", "node", "js" ],
+        "tags": []
+    },
+    {
+        "title": "A simple guide to “function” data type and function declaration syntax in TypeScript",
+        "url": "https://medium.com/p/typescript-functions-5a2490f6a1ec",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "How to write a simple Go Program",
+        "url": "https://medium.com/p/how-to-write-a-simple-go-program-13fd104f3018",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Introduction to “reflect-metadata” package and its ECMAScript proposal",
+        "url": "https://medium.com/p/introduction-to-reflect-metadata-package-and-its-ecmascript-proposal-8798405d7d88",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "Anatomy of Docker",
+        "url": "https://medium.com/p/getting-started-with-docker-1-b4dc83e64389",
+        "languages": [ "docker" ],
+        "tags": []
+    },
+    {
+        "title": "A step by step guide to make HTML email templates in Node.js",
+        "url": "https://medium.com/p/a-step-by-step-guide-to-make-html-email-templates-in-node-js-d67797284595",
+        "languages": [ "node", "js" ],
+        "tags": []
+    },
+    {
+        "title": "Parallel programming in JavaScript using Web Workers",
+        "url": "https://medium.com/p/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db",
+        "languages": [ "pwa", "js", "web" ],
+        "tags": []
+    },
+    {
+        "title": "Docker container as an executable to process images using Go (golang)",
+        "url": "https://medium.com/p/docker-container-as-an-executable-to-process-images-using-go-golang-5233f9bd3bf7",
+        "languages": [ "docker", "go" ],
+        "tags": []
+    },
+    {
+        "title": "Pointers in Go",
+        "url": "https://medium.com/p/pointers-in-go-a789eafccd53",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "A beginner’s guide to deploying a Docker application to production using Docker Compose",
+        "url": "https://medium.com/p/a-beginners-guide-to-deploying-a-docker-application-to-production-using-docker-compose-de1feccd2893",
+        "languages": [ "docker" ],
+        "tags": []
+    },
+    {
+        "title": "The anatomy of WebAssembly: Writing your first WebAssembly module using C (C++)",
+        "url": "https://medium.com/p/the-anatomy-of-webassembly-writing-your-first-webassembly-module-using-c-c-d9ee18f7ac9b",
+        "languages": [ "wasm", "web" ],
+        "tags": []
+    },
+    {
+        "title": "A beginner’s guide to testing React components using Jest and GitHub Actions",
+        "url": "https://medium.com/p/a-beginners-guide-to-testing-react-components-using-jest-and-github-actions-c1c13128f2c6",
+        "languages": [ "devops" ],
+        "tags": []
+    },
+    {
+        "title": "Anatomy of goroutines in Go / Concurrency in Go",
+        "url": "https://medium.com/p/anatomy-of-goroutines-in-go-concurrency-in-go-a4cb9272ff88",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "How to quickly transpile JavaScript using Babel alone? A brief introduction to Babel.js.",
+        "url": "https://medium.com/p/how-to-quickly-transpile-javascript-using-babel-alone-a-brief-introduction-to-babel-js-40e74e43fe32",
+        "languages": [ "devops", "js" ],
+        "tags": []
+    },
+    {
+        "title": "Running multiple HTTP servers in Go",
+        "url": "https://medium.com/p/running-multiple-http-servers-in-go-d15300f4e59f",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Exploring the world of “Generics” (generic data types) in TypeScript",
+        "url": "https://medium.com/p/typescript-generics-10e99078cc8",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "Variadic function in Go",
+        "url": "https://medium.com/p/variadic-function-in-go-5d9b23f4c01a",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Truthy vs Falsy values in JavaScript",
+        "url": "https://medium.com/p/truthy-vs-falsy-values-in-javascript-b9d9ada08bae",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "Dart (DartLang) Introduction: Advanced Dart Features",
+        "url": "https://medium.com/p/dart-dartlang-introduction-advanced-dart-features-524de79456b9",
+        "languages": [ "dart" ],
+        "tags": []
+    },
+    {
+        "title": "A brief introduction to Metaprogramming in JavaScript",
+        "url": "https://medium.com/p/a-brief-introduction-to-metaprogramming-in-javascript-88d13ed407b5",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "Working with Axios and RxJS to make simple HTTP library",
+        "url": "https://medium.com/p/working-with-axios-and-rxjs-to-make-simple-ajax-service-module-6fda9ecdaf9f",
+        "languages": [ "node", "js" ],
+        "tags": []
+    },
+    {
+        "title": "Taking a look at must-know “utility types” provided by TypeScript",
+        "url": "https://medium.com/p/typescript-utility-types-4d9bfc37745c",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "Dart (DartLang) Introduction: Functions and Fat Arrow Expression",
+        "url": "https://medium.com/p/dart-dartlang-introduction-functions-and-fat-arrow-expression-d9ce8e22c2da",
+        "languages": [ "dart" ],
+        "tags": []
+    },
+    {
+        "title": "The anatomy of maps in Go",
+        "url": "https://medium.com/p/the-anatomy-of-maps-in-go-79b82836838b",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "So what the heck is JWT or JSON Web Token?",
+        "url": "https://medium.com/p/so-what-the-heck-is-jwt-or-json-web-token-dca8bcb719a6",
+        "languages": [ "node", "security", "js" ],
+        "tags": []
+    },
+    {
+        "title": "Service Workers! Your first step towards Progressive Web Apps (PWA)",
+        "url": "https://medium.com/p/service-workers-your-first-step-towards-progressive-web-apps-pwa-e4e11d1a2e85",
+        "languages": [ "web", "pwa", "js" ],
+        "tags": []
+    },
+    {
+        "title": "Introduction to “class” data type and Object-Oriented Programming paradigm in TypeScript",
+        "url": "https://medium.com/p/typescript-classes-65b4712ac9c8",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "Serving Angular application on NGINX server",
+        "url": "https://medium.com/p/serving-angular-app-on-nginx-server-7656166c2f1c",
+        "languages": [ "nginx", "devops" ],
+        "tags": []
+    },
+    {
+        "title": "Defer, Panic and Recover in Go",
+        "url": "https://medium.com/p/defer-panic-and-recover-in-go-689dfa7f8802",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "How to choose a programming language to learn",
+        "url": "https://medium.com/p/how-to-choose-a-programming-language-to-learn-4b5bc66114cc",
+        "languages": [ "misc" ],
+        "tags": []
+    },
+    {
+        "title": "An introduction to Raspberry Pi 4 GPIO and controlling it with Node.js",
+        "url": "https://medium.com/p/an-introduction-to-raspberry-pi-4-gpio-and-controlling-it-with-node-js-10f2ce41af12",
+        "languages": [ "iot" ],
+        "tags": []
+    },
+    {
+        "title": "A beginner’s guide to TypeScript (with history)",
+        "url": "https://medium.com/p/typescript-a-beginners-guide-6956fe8bcf9e",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "Go Introductory Tutorials",
+        "url": "https://medium.com/p/go-introductory-tutorials-896aeda0fb8a",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "The deep virtual population in mongoose is actually very simple!",
+        "url": "https://medium.com/p/deep-virtual-population-in-mongoose-is-actually-very-simple-45053531eea1",
+        "languages": [ "db", "node", "js" ],
+        "tags": []
+    },
+    {
+        "title": "The anatomy of Arrays in Go",
+        "url": "https://medium.com/p/the-anatomy-of-arrays-in-go-24429e4491b7",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Understanding Docker image tags and publishing images to Docker Hub",
+        "url": "https://medium.com/p/understanding-docker-image-tags-and-publishing-images-to-docker-hub-b7a4f900f201",
+        "languages": [ "docker" ],
+        "tags": []
+    },
+    {
+        "title": "Dart (DartLang) Introduction: Variables and Data Types",
+        "url": "https://medium.com/p/dart-dartlang-introduction-variables-and-data-types-d269ea7d1f8f",
+        "languages": [ "dart" ],
+        "tags": []
+    },
+    {
+        "title": "JavaScript rAF in a nutshell (requestAnimationFrame)",
+        "url": "https://medium.com/p/javascript-raf-requestanimationframe-456f8a0d04b0",
+        "languages": [ "js", "web" ],
+        "tags": []
+    },
+    {
+        "title": "TypeScript — Enums (enumerations)",
+        "url": "https://medium.com/p/typescript-enums-af03567d662",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "Anatomy of Conditional Statements and Loops in Go",
+        "url": "https://medium.com/p/anatomy-of-conditional-statements-and-loops-in-go-aa84352cc34d",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "A brief introduction to “Data Immutability” in TypeScript",
+        "url": "https://medium.com/p/typescript-data-immutability-71dc3e604426",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "Introduction to “Reflect” API for Metaprogramming in JavaScript",
+        "url": "https://medium.com/p/introduction-to-reflect-api-for-metaprogramming-in-javascript-8b5a2bb84282",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "Bits to Bitmaps: A simple walkthrough of BMP Image Format",
+        "url": "https://medium.com/p/bits-to-bitmaps-a-simple-walkthrough-of-bmp-image-format-765dc6857393",
+        "languages": [ "misc" ],
+        "tags": []
+    },
+    {
+        "title": "Let’s quickly understand how “Polymorphism” works in TypeScript",
+        "url": "https://medium.com/p/typescript-polymorphism-d8ea1d690d5c",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "Introduction to Go Programming Language (GoLang)",
+        "url": "https://medium.com/p/introduction-to-go-programming-language-golang-89d16ca72bbf",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Creating a React-based Electron application with electron-webpack",
+        "url": "https://medium.com/p/creating-a-react-based-electron-application-with-electron-webpack-c33817a6ddc",
+        "languages": [ "electron", "web" ],
+        "tags": []
+    },
+    {
+        "title": "Become a Git pro in just one blog. A thorough guide to Git architecture and command-line interface",
+        "url": "https://medium.com/p/become-a-git-pro-in-just-one-blog-a-thorough-guide-to-git-architecture-and-command-line-interface-93fbe9bdb395",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Dart (DartLang) Introduction: Exception handling",
+        "url": "https://medium.com/p/dart-dartlang-introduction-exception-handling-f9f088906f7c",
+        "languages": [ "dart" ],
+        "tags": []
+    },
+    {
+        "title": "Working with files (I/O) in an Electron application",
+        "url": "https://medium.com/p/working-with-files-i-o-in-an-electron-application-b4d2de403f54",
+        "languages": [ "electron", "web" ],
+        "tags": []
+    },
+    {
+        "title": "Understanding the basic “Built-in Data Types” provided by TypeScript",
+        "url": "https://medium.com/p/typescript-working-with-types-f1829384851f",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "Prototype-based Inheritance and Prototype chain in JavaScript (ES5)",
+        "url": "https://medium.com/p/prototype-based-inheritance-and-prototype-chain-in-javascript-es5-29c14f3972fa",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "A basic introduction to Fabric.js to draw 2D graphics on Web",
+        "url": "https://medium.com/p/a-basic-introduction-to-fabric-js-to-draw-2d-graphics-on-web-68dcb570ca94",
+        "languages": [ "web", "js" ],
+        "tags": []
+    },
+    {
+        "title": "A quick introduction to the “Property Descriptor” of the JavaScript objects",
+        "url": "https://medium.com/p/a-quick-introduction-to-the-property-descriptor-of-the-javascript-objects-5093c37d079",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "Dart (DartLang) Introduction: Packages and Libraries",
+        "url": "https://medium.com/p/dart-dartlang-introduction-packages-and-libraries-c2fd75cf5606",
+        "languages": [ "dart" ],
+        "tags": []
+    },
+    {
+        "title": "Introduction to IoT with Raspberry Pi and Node.js using RGB LED lights.",
+        "url": "https://medium.com/p/introduction-to-iot-with-raspberry-pi-and-node-js-using-rgb-led-lights-77f4750a5ea9",
+        "languages": [ "iot" ],
+        "tags": []
+    },
+    {
+        "title": "Understanding the basics of DOM (Document Object Model)",
+        "url": "https://medium.com/p/understanding-basics-of-dom-265b73d958d1",
+        "languages": [ "js", "web" ],
+        "tags": []
+    },
+    {
+        "title": "Server Side Rendering (SSR) in Angular 5+ | The simplest and quickest SSR approach",
+        "url": "https://medium.com/p/server-side-rendering-ssr-in-angular-5-the-simplest-and-quickest-ssr-approach-34cf53224f32",
+        "languages": [ "devops" ],
+        "tags": []
+    },
+    {
+        "title": "OS functions for everyday use-cases",
+        "url": "https://medium.com/p/os-functions-for-everyday-use-cases-ce7272d43d12",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "Introduction to Character Encoding",
+        "url": "https://medium.com/p/introduction-to-character-encoding-3b9735f265a6",
+        "languages": [ "misc" ],
+        "tags": []
+    },
+    {
+        "title": "Packaging and distributing Electron applications using electron-builder",
+        "url": "https://medium.com/p/packaging-and-distributing-electron-applications-using-electron-builder-311fc55178d9",
+        "languages": [ "electron" ],
+        "tags": []
+    },
+    {
+        "title": "Introduction to JavaScript “Symbols” and their use in Metaprogramming",
+        "url": "https://medium.com/p/introduction-to-javascript-symbols-and-their-use-in-metaprogramming-b1e566410589",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "A brief introduction to TypeScript’s command-line interface and compiler settings",
+        "url": "https://medium.com/p/typescript-compiler-flags-3b1efebedf15",
+        "languages": [ "ts" ],
+        "tags": []
+    },
+    {
+        "title": "Anime.js + React Transition Group",
+        "url": "https://medium.com/p/anime-js-react-transition-group-5f6d0055a3a0",
+        "languages": [ "misc" ],
+        "tags": []
+    },
+    {
+        "title": "How to write a frontend JavaScript plugin using ES6 + SASS + Webpack",
+        "url": "https://medium.com/p/how-to-write-a-frontend-javascript-plugin-using-es6-sass-webpack-a1c6d6fdeb71",
+        "languages": [ "devops", "js" ],
+        "tags": []
+    },
+    {
+        "title": "Deploying an ExpressJS (Node) web application to Heroku.",
+        "url": "https://medium.com/p/deploying-an-expressjs-node-web-application-to-heroku-c0f36e5671fd",
+        "languages": [ "node", "devops", "js" ],
+        "tags": []
+    },
+    {
+        "title": "Creating your first Docker application",
+        "url": "https://medium.com/p/creating-your-first-docker-application-b0ce40ac67d1",
+        "languages": [ "docker" ],
+        "tags": []
+    },
+    {
+        "title": "Dart (DartLang) Introduction: String Interpolation",
+        "url": "https://medium.com/p/dart-dartlang-introduction-string-interpolation-8ed99174119a",
+        "languages": [ "dart" ],
+        "tags": []
+    },
+    {
+        "title": "5 simple JavaScript coding practices to consider for scalability",
+        "url": "https://medium.com/p/5-simple-javascript-coding-practices-to-consider-for-scalability-2966e9032162",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "Working with controllerAs (‘controller as ctrl’) in angular.js",
+        "url": "https://medium.com/p/working-with-controlleras-controller-as-ctrl-in-angular-js-212a1330769e",
+        "languages": [ "misc" ],
+        "tags": []
+    },
+    {
+        "title": "Angular Material vs Semantic-Ui vs Bootstrap vs Foundation vs materialize",
+        "url": "https://medium.com/p/angular-material-vs-semantic-ui-vs-bootstrap-vs-foundation-vs-materialize-8bd3646e6f0a",
+        "languages": [ "misc" ],
+        "tags": []
+    },
+    {
+        "title": "Dart (DartLang) Introduction: Object-oriented Programming",
+        "url": "https://medium.com/p/dart-dartlang-introduction-object-oriented-programming-c3d79d94d303",
+        "languages": [ "dart" ],
+        "tags": []
+    },
+    {
+        "title": "Playing with In-Memory Data Structure of JavaScript: Introduction to UTF, Typed Arrays and Blob",
+        "url": "https://medium.com/p/playing-with-in-memory-data-structure-of-javascript-introduction-to-utf-typed-arrays-and-blob-f856d3041a44",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "What’s new in JavaScript 2020?",
+        "url": "https://medium.com/p/whats-new-in-javascript-2020-a2e19250a774",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "Understanding new.target syntax in JavaScript functions.",
+        "url": "https://medium.com/p/understanding-new-target-syntax-in-javascript-functions-6a216890ed1a",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "Basics of React Router v4",
+        "url": "https://medium.com/p/basics-of-react-router-v4-336d274fd9e0",
+        "languages": [ "misc" ],
+        "tags": []
+    },
+    {
+        "title": "Dart (DartLang) Introduction: Async programming (Future)",
+        "url": "https://medium.com/p/dart-dartlang-introduction-async-programming-future-632b88825eda",
+        "languages": [ "dart" ],
+        "tags": []
+    },
+    {
+        "title": "Loose vs Strict Equality in JavaScript",
+        "url": "https://medium.com/p/loose-vs-strict-equality-in-javascript-3e5136720b00",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "Working with files using ioutil package",
+        "url": "https://medium.com/p/working-with-files-using-ioutil-package-2c526064febb",
+        "languages": [ "go" ],
+        "tags": []
+    },
+    {
+        "title": "A basic introduction to Canvas API to draw 2D/3D graphics on Web",
+        "url": "https://medium.com/p/a-basic-introduction-to-canvas-api-to-draw-2d-3d-graphics-on-web-15d251a675a3",
+        "languages": [ "web" ],
+        "tags": []
+    },
+    {
+        "title": "A quick Introduction to JavaScript “Iterators” and “Generators”",
+        "url": "https://medium.com/p/quick-intro-to-javascript-iterators-94ad7612a891",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "Dart (DartLang) Introduction: for and for-in loops",
+        "url": "https://medium.com/p/dart-dartlang-introduction-for-and-for-in-loops-ff2bf5aeab5d",
+        "languages": [ "dart" ],
+        "tags": []
+    },
+    {
+        "title": "Creating simple HTML Canvas animations with Fabric.js",
+        "url": "https://medium.com/p/creating-simple-html-canvas-animations-with-fabric-js-8a2dc433939d",
+        "languages": [ "web" ],
+        "tags": []
+    },
+    {
+        "title": "What are “Internal Slots” and “Internal Methods” in JavaScript?",
+        "url": "https://medium.com/p/what-are-internal-slots-and-internal-methods-in-javascript-f2f0f6b38de",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "Dart (DartLang) Introduction: Getting started with Dart/Flutter",
+        "url": "https://medium.com/p/dart-dartlang-introduction-getting-started-with-dart-flutter-c5f59b8c456b",
+        "languages": [ "dart" ],
+        "tags": []
+    },
+    {
+        "title": "Dart (DartLang) Introduction: if/else conditional statement",
+        "url": "https://medium.com/p/dart-dartlang-introduction-if-else-conditional-statement-1350a56e2e98",
+        "languages": [ "dart" ],
+        "tags": []
+    },
+    {
+        "title": "Introduction to “Proxy” API for Metaprogramming in JavaScript",
+        "url": "https://medium.com/p/introduction-to-proxy-api-for-metaprogramming-in-javascript-fa2781e360ba",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "Understanding this in ES5 vs ES6",
+        "url": "https://medium.com/p/understanding-this-in-es5-vs-es6-579caa749bce",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "Dart (DartLang) Introduction: Hello World Program",
+        "url": "https://medium.com/p/dart-dartlang-introduction-hello-world-program-4c890787f39b",
+        "languages": [ "dart" ],
+        "tags": []
+    },
+    {
+        "title": "Prerender Angular 4+ app without Angular Universal",
+        "url": "https://medium.com/p/prerender-angular-4-app-without-angular-universal-8fa02554cbc",
+        "languages": [ "misc" ],
+        "tags": []
+    },
+    {
+        "title": "The anatomy of Web Components",
+        "url": "https://medium.com/p/the-anatomy-of-web-components-d6afedb81b37",
+        "languages": [ "web", "js" ],
+        "tags": []
+    },
+    {
+        "title": "What’s new in JavaScript: Google I/O 2019 Summary",
+        "url": "https://medium.com/p/whats-new-in-javascript-google-i-o-2019-summary-d16bd2308412",
+        "languages": [ "js" ],
+        "tags": []
+    },
+    {
+        "title": "Introduction to Character/Text Encoding in Web",
+        "url": "https://medium.com/p/introduction-to-character-text-encoding-in-web-4b315c4244f2",
+        "languages": [ "misc" ],
+        "tags": []
+    },
+    {
+        "title": "Dart (DartLang) Introduction: while and do-while loops",
+        "url": "https://medium.com/p/dart-dartlang-introduction-while-and-do-while-loops-443961f0d89e",
+        "languages": [ "dart" ],
+        "tags": []
+    },
+    {
+        "title": "Dart (DartLang) Introduction: switch conditional statement",
+        "url": "https://medium.com/p/dart-dartlang-introduction-switch-conditional-statement-c0e39ff172b7",
+        "languages": [ "dart" ],
+        "tags": []
+    },
+    {
+        "title": "Taking easy screenshots of your code with this awesome CLI tool",
+        "url": "https://medium.com/p/taking-easy-screenshots-of-your-code-with-this-awesome-cli-tool-bcc43aec653a",
+        "languages": [ "misc" ],
+        "tags": []
+    },
+    {
+        "title": "Mongoose.js for MongoDB in a nutshell",
+        "url": "https://medium.com/p/mongoose-js-in-a-nutshell-8b0b60f3d093",
+        "languages": [ "db" ],
+        "tags": []
+    },
+    {
+        "title": "Distribute your software with GNU Make tool",
+        "url": "https://medium.com/p/distribute-your-software-with-gnu-make-tool-33934b3845dd",
+        "languages": [ "devops" ],
+        "tags": []
+    }
+]

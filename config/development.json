@@ -2,6 +2,7 @@
     "env": "development",
     "endpoints": {
         "projects": "/assets/json/projects.json",
-        "posts": "/assets/json/posts.json"
+        "posts": "/assets/json/posts.json",
+        "articles": "/assets/json/articles.json"
     }
 }
